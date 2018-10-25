@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-inner walls
+8x8 modules
   9
 $CELTYPE
   6
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-22.54010231348524
+15.47297858516755
  22
-19.0365864104109
+7.45670036106056
  13
 0
  23
@@ -1149,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-26.6071207743967
+14.13259440159122
  41
 1.848987108655617
  42
@@ -2263,7 +2263,7 @@ AcDbLayerTableRecord
   2
 8x8 modules
  70
-    1
+    0
  62
     9
   6
@@ -2272,6 +2272,10 @@ DOTTINY
     0
 390
 F
+1001
+LibreCad
+1070
+    1
   0
 LAYER
   5
