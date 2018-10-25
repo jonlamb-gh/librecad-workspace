@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-15.47297858516755
+45.71579586414174
  22
-7.45670036106056
+27.38276917022027
  13
 0
  23
@@ -1149,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-14.13259440159122
+63.40658276942264
  41
 1.848987108655617
  42
@@ -5315,30 +5315,6 @@ ByLayer
 100
 AcDbLine
  10
-6
- 20
-26
- 11
-7
- 21
-26
-  0
-LINE
-  5
-95
-100
-AcDbEntity
-  8
-8x8 modules
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
 7
  20
 42
@@ -5346,6 +5322,68 @@ AcDbLine
 8
  21
 42
+  0
+LWPOLYLINE
+  5
+95
+100
+AcDbEntity
+  8
+inner walls
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+   10
+ 70
+    1
+ 43
+0
+ 10
+18
+ 20
+13
+ 10
+18
+ 20
+14
+ 10
+26
+ 20
+14
+ 10
+26
+ 20
+13
+ 10
+19
+ 20
+13
+ 10
+19
+ 20
+9
+ 10
+18
+ 20
+9
+ 10
+2
+ 20
+9
+ 10
+2
+ 20
+10
+ 10
+18
+ 20
+10
   0
 LWPOLYLINE
   5
@@ -5371,10 +5409,6 @@ AcDbPolyline
  10
 18
  20
-13
- 10
-18
- 20
 14
  10
 26
@@ -5408,72 +5442,14 @@ AcDbPolyline
 18
  20
 10
+ 10
+18
+ 20
+13
   0
 LWPOLYLINE
   5
 97
-100
-AcDbEntity
-  8
-inner walls
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-   10
- 70
-    1
- 43
-0
- 10
-18
- 20
-14
- 10
-26
- 20
-14
- 10
-26
- 20
-13
- 10
-19
- 20
-13
- 10
-19
- 20
-9
- 10
-18
- 20
-9
- 10
-2
- 20
-9
- 10
-2
- 20
-10
- 10
-18
- 20
-10
- 10
-18
- 20
-13
-  0
-LWPOLYLINE
-  5
-98
 100
 AcDbEntity
   8
@@ -5503,7 +5479,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-99
+98
 100
 AcDbEntity
   8
@@ -5553,7 +5529,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-9A
+99
 100
 AcDbEntity
   8
@@ -5644,6 +5620,54 @@ AcDbPolyline
 30
  20
 18
+  0
+LINE
+  5
+9A
+100
+AcDbEntity
+  8
+8x8 modules
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+47
+ 20
+26
+ 11
+46
+ 21
+26
+  0
+LINE
+  5
+9B
+100
+AcDbEntity
+  8
+8x8 modules
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+46
+ 20
+34
+ 11
+45
+ 21
+34
   0
 ENDSEC
   0
