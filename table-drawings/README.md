@@ -11,3 +11,14 @@ Units = centimeter
 Units = inch
 
 ![Table, Front](images/table_front_inches.svg)
+
+## Left
+
+Units = centimeter
+
+![Table, Left](images/table_left.svg)
+
+Units = inch
+
+![Table, Left](images/table_left_inches.svg)
+
