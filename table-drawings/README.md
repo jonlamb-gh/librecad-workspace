@@ -26,6 +26,10 @@ Units = inch
 
 ![Table, Top](images/table_top.svg)
 
+## Bottom
+
+![Table, Bottom](images/table_bottom.svg)
+
 ## Leg, Joinery Type 0
 
 Q0/Q2
