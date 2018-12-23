@@ -31,3 +31,9 @@ Units = inch
 Q0/Q2
 
 ![Leg, JT0](images/leg_board_jt0.svg)
+
+## Leg, Joinery Type 1
+
+Q1/Q3
+
+![Leg, JT1](images/leg_board_jt1.svg)
