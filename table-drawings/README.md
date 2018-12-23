@@ -25,3 +25,9 @@ Units = inch
 ## Top
 
 ![Table, Top](images/table_top.svg)
+
+## Leg, Joinery Type 0
+
+Q0/Q2
+
+![Leg, JT0](images/leg_board_jt0.svg)
