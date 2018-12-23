@@ -41,3 +41,7 @@ Q0/Q2
 Q1/Q3
 
 ![Leg, JT1](images/leg_board_jt1.svg)
+
+## Major Top Board
+
+![Front](images/major_top_board_front.svg)
