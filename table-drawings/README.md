@@ -2,25 +2,15 @@
 
 DXF drawing files for the [Table prototype project](https://github.com/jonlamb-gh/openscad-models-rust/tree/master/wood-projects/table)
 
-## Front
-
 Units = centimeter
+
+## Front
 
 ![Table, Front](images/table_front.svg)
 
-Units = inch
-
-![Table, Front](images/table_front_inches.svg)
-
 ## Left
 
-Units = centimeter
-
 ![Table, Left](images/table_left.svg)
-
-Units = inch
-
-![Table, Left](images/table_left_inches.svg)
 
 ## Top
 
@@ -29,6 +19,10 @@ Units = inch
 ## Bottom
 
 ![Table, Bottom](images/table_bottom.svg)
+
+## Top Supports
+
+![Top Supports, Bottom](images/top_supports.svg)
 
 ## Leg, Joinery Type 0
 
