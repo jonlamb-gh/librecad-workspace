@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="282.222mm" height="282.222mm"
+ viewBox="0 0 800 800"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="800" height="800"/>
+</g>
+
+<g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="696,428 752,428 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="752,428 752,380 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="752,380 674,380 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="674,380 674,366 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="674,366 132,366 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="132,366 132,380 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="132,380 54,380 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="54,380 54,428 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="54,428 110,428 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="110,428 110,442 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="110,442 696,442 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="696,442 696,428 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="733,411 733,397 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="733,397 737,397 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="737,397 737,411 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="737,411 733,411 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="69,411 69,397 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="69,397 73,397 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="73,397 73,411 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="73,411 69,411 " />
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="403,328 752,328 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M403,328 L413,326 L413,329 L403,328"/>
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M752,328 L742,329 L742,326 L752,328"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="557,316 555,323 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="555,323 560,323 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="558,321 558,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="567,316 563,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="563,316 563,320 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="563,320 565,320 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="567,322 567,321 566,320 565,320 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="567,322 567,323 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="565,325 566,325 567,324 567,323 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="565,325 563,325 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<circle cx="571" cy="325" r="0.5"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="574,317 574,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="574,316 578,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="578,316 576,325 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<circle cx="581" cy="317" r="0.5"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="585,319 585,318 585,317 585,316 584,316 582,316 582,317 581,317 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="585,319 581,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="581,325 585,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="592,316 591,316 591,316 590,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="590,316 589,318 589,320 589,322 589,324 590,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="590,325 590,325 591,325 591,325 592,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="592,325 593,323 593,321 593,319 592,317 592,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="599,316 599,316 598,316 597,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="597,316 596,318 596,320 596,322 597,324 597,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="597,325 598,325 598,325 599,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="599,325 600,323 600,321 600,319 600,317 599,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="403,402 403,323 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="752,402 752,323 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="785,404 785,380 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M785,404 L783,394 L786,394 L785,404"/>
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M785,380 L786,390 L783,390 L785,380"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="773,378 773,376 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="777,376 777,375 776,374 775,374 774,374 773,374 773,375 773,376 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="777,377 777,376 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="779,374 778,374 777,374 777,375 777,376 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="779,374 780,374 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="782,376 782,375 781,374 780,374 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="782,376 782,378 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<circle cx="782" cy="370" r="0.5"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="775,367 773,365 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="773,365 782,365 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<circle cx="774" cy="362" r="0.5"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="776,358 775,358 774,358 773,359 773,360 773,361 774,361 774,362 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="776,358 782,362 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="782,362 782,358 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="773,350 773,354 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="773,354 777,354 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="777,354 777,352 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="779,350 778,350 777,351 777,352 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="779,350 780,350 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="782,352 782,351 781,351 780,350 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="782,352 782,354 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="773,344 773,344 773,345 773,346 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="773,346 775,347 777,347 779,347 781,346 782,346 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="782,346 782,345 782,345 782,344 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="782,344 780,343 778,343 776,343 774,343 773,344 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="754,404 789,404 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="754,380 789,380 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="21,380 21,428 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,380 L23,390 L20,390 L21,380"/>
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,428 L20,418 L23,418 L21,428"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="14,423 14,420 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="16,418 15,419 14,419 14,420 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="16,418 17,418 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="17,423 18,422 19,422 19,421 19,420 18,419 17,418 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="17,423 14,423 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="9,419 10,421 12,422 14,423 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="19,415 18,415 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="11,412 10,412 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="13,408 12,408 11,408 10,409 9,410 10,411 10,411 10,412 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="13,408 19,412 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="19,412 19,408 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="9,400 9,405 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="9,405 14,405 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="14,405 14,402 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="16,400 15,401 14,401 14,402 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="16,400 17,400 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="19,402 19,401 18,401 17,400 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="19,402 19,405 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="10,394 10,394 9,395 10,396 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="10,396 12,397 14,397 16,397 18,396 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="18,396 19,396 19,395 19,394 18,394 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="18,394 17,393 15,393 13,393 11,394 10,394 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="10,387 10,387 9,388 10,388 10,389 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="10,389 12,389 14,390 16,390 18,389 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="18,389 19,388 19,387 19,387 18,387 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="18,387 17,386 15,385 13,386 11,386 10,387 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="52,380 17,380 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="52,428 17,428 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="714,457 756,457 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M733,457 L723,459 L723,456 L733,457"/>
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M737,457 L747,456 L747,459 L737,457"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="743,446 742,446 742,446 741,446 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="741,446 740,448 740,450 740,452 740,454 741,455 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="741,455 741,455 742,455 742,455 743,455 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="743,455 743,453 744,451 744,449 743,447 743,446 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<circle cx="747" cy="455" r="0.5"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="750,450 752,450 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="754,452 754,451 753,450 752,450 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="754,452 754,453 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="750,453 750,454 751,455 752,455 753,455 754,454 754,453 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="750,453 750,450 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="753,446 752,446 750,448 750,450 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="761,446 760,446 760,446 759,446 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="759,446 758,448 758,450 758,452 758,454 759,455 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="759,455 759,455 760,455 760,455 761,455 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="761,455 762,453 762,451 762,449 761,447 761,446 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="768,446 768,446 767,446 766,446 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="766,446 765,448 765,450 765,452 766,454 766,455 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="766,455 767,455 767,455 768,455 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="768,455 769,453 769,451 769,449 769,447 768,446 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="776,446 775,446 774,446 774,446 773,446 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="773,446 773,448 772,450 773,452 773,454 773,455 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="773,455 774,455 775,455 775,455 776,455 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="776,455 776,453 777,451 777,449 776,447 776,446 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="733,414 733,462 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="737,414 737,462 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="159,378 159,430 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M159,397 L157,387 L160,387 L159,397"/>
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M159,411 L160,421 L157,421 L159,411"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="149,394 147,392 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="147,392 156,392 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<circle cx="156" cy="389" r="0.5"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="152,382 152,384 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="150,386 151,386 152,385 152,384 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="150,386 149,386 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="149,382 148,382 147,383 147,384 147,385 148,385 149,386 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="149,382 152,382 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="156,385 155,383 154,382 152,382 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="147,375 147,376 147,376 147,377 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="147,377 149,378 151,378 153,378 155,378 156,377 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="156,377 156,377 156,376 156,376 156,375 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="156,375 154,375 152,374 150,374 148,375 147,375 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="147,368 147,368 147,369 147,370 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="147,370 149,371 151,371 153,371 155,370 156,370 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="156,370 156,369 156,369 156,368 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="156,368 154,367 152,367 150,367 148,368 147,368 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="147,360 147,361 147,362 147,362 147,363 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="147,363 149,363 151,364 153,363 155,363 156,363 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="156,363 156,362 156,361 156,361 156,360 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="156,360 154,360 152,359 150,360 148,360 147,360 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="76,397 164,397 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="76,411 164,411 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="54,328 132,328 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M54,328 L64,326 L64,329 L54,328"/>
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M132,328 L122,329 L122,326 L132,328"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="73,318 75,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="75,316 75,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="81,316 81,316 80,316 79,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="79,316 78,318 78,320 78,322 79,324 79,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="79,325 80,325 80,325 81,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="81,325 82,323 82,321 82,319 81,317 81,316 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<circle cx="85" cy="325" r="0.5"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="89,318 91,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="91,316 91,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="94,320 96,320 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="98,322 98,321 97,320 96,320 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="98,322 98,323 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="94,323 94,324 95,325 96,325 97,325 98,324 98,323 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="94,323 94,320 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="97,316 95,317 94,318 94,320 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="104,316 104,316 103,316 103,316 102,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="102,316 102,318 101,320 101,322 102,324 102,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="102,325 103,325 103,325 104,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="104,325 105,323 106,321 105,319 105,317 104,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="112,316 111,316 111,316 110,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="110,316 109,318 109,320 109,322 109,324 110,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="110,325 110,325 111,325 112,325 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="112,325 113,323 113,321 113,319 112,317 112,316 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="54,378 54,323 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="132,363 132,323 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="54,480 110,480 " />
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M54,480 L64,479 L64,482 L54,480"/>
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M110,480 L100,482 L100,479 L110,480"/>
+</g>
+
+<g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="63,469 63,468 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="63,468 68,468 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="68,468 65,478 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="71,478 71,477 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="74,468 76,468 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="76,473 77,472 78,472 78,471 78,470 77,469 76,468 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="75,473 76,473 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="78,475 78,474 77,473 76,473 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="78,475 78,476 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="76,478 77,478 78,477 78,476 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="76,478 74,478 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="85,469 84,469 83,468 83,469 82,469 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="82,469 82,471 81,473 81,475 82,477 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="82,477 83,478 84,478 84,478 85,477 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="85,477 85,476 86,474 85,472 85,470 85,469 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="92,469 91,469 91,468 90,469 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="90,469 89,471 89,473 89,475 89,477 90,477 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="90,477 90,478 91,478 92,478 92,477 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="92,477 93,476 93,474 93,472 92,470 92,469 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="99,469 99,469 98,468 98,469 97,469 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="97,469 97,471 96,473 96,475 97,477 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="97,477 98,478 98,478 99,478 99,477 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="99,477 100,476 100,474 100,472 100,470 99,469 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="54,430 54,485 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="110,445 110,485 " />
+</g>
+</g>
+</svg>
