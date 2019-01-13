@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-Furniture
+Doors
   9
 $CELTYPE
   6
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-22.76112846452734
+14.73384951131446
  22
-20.48079277420364
+5.844649202829116
  13
 0
  23
@@ -1149,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-40.70821491614908
+21.42297274344968
  41
 2.134854771784232
  42
@@ -8079,6 +8079,102 @@ HATCH
 100
 AcDbEntity
   8
+Doors
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+ansi31
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+6.000000000000001
+ 20
+-0.2
+ 11
+9.5
+ 21
+-0.2
+ 72
+    1
+ 10
+9.5
+ 20
+-0.2
+ 11
+9.5
+ 21
+0.2
+ 72
+    1
+ 10
+9.5
+ 20
+0.2
+ 11
+6.000000000000001
+ 21
+0.2
+ 72
+    1
+ 10
+6.000000000000001
+ 20
+0.2
+ 11
+6.000000000000001
+ 21
+-0.2
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+0.1
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+128
+100
+AcDbEntity
+  8
 Shelves and Counters
   6
 ByLayer
@@ -8171,7 +8267,7 @@ ansi31
   0
 HATCH
   5
-128
+129
 100
 AcDbEntity
   8
@@ -8267,7 +8363,7 @@ ansi31
   0
 HATCH
   5
-129
+12A
 100
 AcDbEntity
   8
@@ -8363,7 +8459,7 @@ ansi31
   0
 LWPOLYLINE
   5
-12A
+12B
 100
 AcDbEntity
   8
@@ -8401,7 +8497,7 @@ AcDbPolyline
   0
 DIMENSION
   5
-12B
+12C
 100
 AcDbEntity
   8
@@ -8463,7 +8559,7 @@ AcDbRotatedDimension
   0
 DIMENSION
   5
-12C
+12D
 100
 AcDbEntity
   8
@@ -8527,7 +8623,7 @@ AcDbRotatedDimension
   0
 LWPOLYLINE
   5
-12D
+12E
 100
 AcDbEntity
   8
@@ -8565,7 +8661,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-12E
+12F
 100
 AcDbEntity
   8
@@ -8603,7 +8699,7 @@ AcDbPolyline
   0
 DIMENSION
   5
-12F
+130
 100
 AcDbEntity
   8
@@ -8662,46 +8758,6 @@ AcDbAlignedDimension
 0
 100
 AcDbRotatedDimension
-  0
-INSERT
-  5
-130
-100
-AcDbEntity
-  8
-Furniture
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-bed_frame-0
- 10
-16.7
- 20
-0.7
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-0
- 45
-0
   0
 MTEXT
   5
@@ -9337,25 +9393,65 @@ AcDbPolyline
  43
 0
  10
-3.2
+22.2
  20
-15.2
+3
  10
-0.5
+23.9
  20
-15.2
+3
  10
-0.5
+23.9
  20
-9.9
+7.5
  10
-3.2
+22.2
  20
-9.9
+7.5
+  0
+INSERT
+  5
+140
+100
+AcDbEntity
+  8
+Furniture
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+bed_frame-0
+ 10
+13.3
+ 20
+1.7
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+0
+ 45
+0
   0
 LWPOLYLINE
   5
-140
+141
 100
 AcDbEntity
   8
@@ -9375,21 +9471,59 @@ AcDbPolyline
  43
 0
  10
-0.3999999999999999
+3.1
  20
-17.9
+17.7
  10
-2.1
+0.4
  20
-17.9
+17.7
  10
-2.1
+0.4
  20
-22.4
+12.4
  10
-0.3999999999999999
+3.1
  20
-22.4
+12.4
+  0
+LWPOLYLINE
+  5
+142
+100
+AcDbEntity
+  8
+Doors
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+6.000000000000001
+ 20
+-0.2
+ 10
+9.5
+ 20
+-0.2
+ 10
+9.5
+ 20
+0.2
+ 10
+6.000000000000001
+ 20
+0.2
   0
 ENDSEC
   0
