@@ -31,7 +31,7 @@ $EXTMIN
   9
 $EXTMAX
  10
-29.7
+29
  20
 22
  30
@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-0
+ACC
   9
 $CELTYPE
   6
@@ -111,7 +111,7 @@ $DISPSILH
   9
 $DIMSCALE
  40
-2.5
+1
   9
 $DIMASZ
  40
@@ -119,7 +119,7 @@ $DIMASZ
   9
 $DIMEXO
  40
-0.0625
+0.625
   9
 $DIMDLI
  40
@@ -135,7 +135,7 @@ $DIMDLE
   9
 $DIMEXE
  40
-0.125
+1.25
   9
 $DIMTP
  40
@@ -311,7 +311,7 @@ $DIMUPT
   9
 $DIMDEC
  70
-    2
+    4
   9
 $DIMTDEC
  70
@@ -327,7 +327,7 @@ $DIMALTTD
   9
 $DIMTXSTY
   7
-STANDARD
+standard
   9
 $DIMAUNIT
  70
@@ -335,7 +335,7 @@ $DIMAUNIT
   9
 $DIMADEC
  70
-    0
+    2
   9
 $DIMALTRND
  40
@@ -347,7 +347,7 @@ $DIMAZIN
   9
 $DIMDSEP
  70
-   44
+    0
   9
 $DIMATFIT
  70
@@ -379,7 +379,7 @@ $DIMTMOVE
   9
 $DIMFXL
  40
-1
+0.1
   9
 $DIMFXLON
  70
@@ -775,9 +775,9 @@ $MAXACTVP
   9
 $PINSBASE
  10
-0
+1.387954545454548
  20
-0
+1.25
  30
 0
   9
@@ -801,9 +801,19 @@ $PEXTMAX
  30
 0
   9
+$GRIDMODE
+ 70
+    1
+  9
 $SNAPSTYLE
  70
     0
+  9
+$GRIDUNIT
+ 10
+0
+ 20
+0
   9
 $PLIMMIN
  10
@@ -813,9 +823,9 @@ $PLIMMIN
   9
 $PLIMMAX
  10
-0.0021
+27.94
  20
-0.00297
+21.59
   9
 $UNITMODE
  70
@@ -903,7 +913,7 @@ $EXTNAMES
   9
 $PSVPSCALE
  40
-1
+0.8677241331435911
   9
 $OLESTARTUP
 290
@@ -1111,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-17.55031444319821
+19.95470752191669
  22
-11.39035238227342
+12.04892297403868
  13
 0
  23
@@ -1139,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-27.19307195506842
+30.91852281291329
  41
 1.757520510483136
  42
@@ -2237,7 +2247,7 @@ AcDbLayerTableRecord
   6
 CONTINUOUS
 370
-    0
+    5
 390
 F
   0
@@ -2255,11 +2265,13 @@ ACC
  70
     0
  62
-    2
+   56
+420
+8421376
   6
 CONTINUOUS
 370
-    0
+    5
 390
 F
   0
@@ -2281,13 +2293,35 @@ Contour
   6
 CONTINUOUS
 370
-   -3
+    5
 390
 F
   0
 LAYER
   5
 4C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+DEFAULT
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    5
+390
+F
+  0
+LAYER
+  5
+4D
 330
 2
 100
@@ -2303,13 +2337,13 @@ Relay-Conn
   6
 CONTINUOUS
 370
-   -3
+    5
 390
 F
   0
 LAYER
   5
-4D
+4E
 330
 2
 100
@@ -2325,13 +2359,13 @@ VBAT
   6
 CONTINUOUS
 370
-    0
+    5
 390
 F
   0
 LAYER
   5
-4E
+4F
 330
 2
 100
@@ -2349,7 +2383,7 @@ VIN
   6
 CONTINUOUS
 370
-    0
+    5
 390
 F
   0
@@ -2369,7 +2403,7 @@ AcDbSymbolTable
   0
 STYLE
   5
-4F
+50
 330
 2
 100
@@ -2453,7 +2487,7 @@ ACAD
   0
 APPID
   5
-50
+51
 330
 9
 100
@@ -2485,7 +2519,7 @@ AcDbDimStyleTable
   0
 DIMSTYLE
 105
-51
+52
 330
 A
 100
@@ -2501,11 +2535,11 @@ Standard
  41
 0.25
  42
-0.0625
+0.625
  43
 0.38
  44
-0.125
+1.25
  45
 0
  46
@@ -2515,13 +2549,13 @@ Standard
  48
 0
  49
-1
+0.1
 140
 0.25
 141
 0.09
 142
-2.5
+0
 143
 25.4
 144
@@ -2549,7 +2583,7 @@ Standard
  77
     0
  78
-    1
+    8
  79
     0
 170
@@ -2571,9 +2605,9 @@ Standard
 178
     0
 179
-    0
-271
     2
+271
+    4
 272
     4
 273
@@ -2669,7 +2703,7 @@ AcDbBlockTableRecord
   0
 BLOCK_RECORD
   5
-52
+53
 330
 1
 100
@@ -2687,7 +2721,7 @@ battery
   0
 BLOCK_RECORD
   5
-55
+56
 330
 1
 100
@@ -2705,7 +2739,7 @@ ground
   0
 BLOCK_RECORD
   5
-58
+59
 330
 1
 100
@@ -2723,7 +2757,7 @@ relay
   0
 BLOCK_RECORD
   5
-5B
+5C
 330
 1
 100
@@ -2732,6 +2766,24 @@ AcDbSymbolTableRecord
 AcDbBlockTableRecord
   2
 switch
+ 70
+    0
+280
+    1
+281
+    0
+  0
+BLOCK_RECORD
+  5
+5F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+fuse
  70
     0
 280
@@ -2825,9 +2877,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-53
+54
 330
-52
+53
 100
 AcDbEntity
   8
@@ -2849,7 +2901,7 @@ battery
   0
 LINE
   5
-5E
+62
 100
 AcDbEntity
   8
@@ -2873,7 +2925,7 @@ AcDbLine
   0
 LINE
   5
-5F
+63
 100
 AcDbEntity
   8
@@ -2897,7 +2949,7 @@ AcDbLine
   0
 LINE
   5
-60
+64
 100
 AcDbEntity
   8
@@ -2921,7 +2973,7 @@ AcDbLine
   0
 LINE
   5
-61
+65
 100
 AcDbEntity
   8
@@ -2945,7 +2997,7 @@ AcDbLine
   0
 LINE
   5
-62
+66
 100
 AcDbEntity
   8
@@ -2969,7 +3021,7 @@ AcDbLine
   0
 LINE
   5
-63
+67
 100
 AcDbEntity
   8
@@ -2993,7 +3045,7 @@ AcDbLine
   0
 LINE
   5
-64
+68
 100
 AcDbEntity
   8
@@ -3017,7 +3069,7 @@ AcDbLine
   0
 LINE
   5
-65
+69
 100
 AcDbEntity
   8
@@ -3041,7 +3093,7 @@ AcDbLine
   0
 LINE
   5
-66
+6A
 100
 AcDbEntity
   8
@@ -3065,7 +3117,7 @@ AcDbLine
   0
 POINT
   5
-67
+6B
 100
 AcDbEntity
   8
@@ -3085,7 +3137,7 @@ AcDbPoint
   0
 POINT
   5
-68
+6C
 100
 AcDbEntity
   8
@@ -3105,9 +3157,9 @@ AcDbPoint
   0
 ENDBLK
   5
-54
+55
 330
-52
+53
 100
 AcDbEntity
   8
@@ -3117,9 +3169,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-56
+57
 330
-55
+56
 100
 AcDbEntity
   8
@@ -3141,7 +3193,7 @@ ground
   0
 LINE
   5
-69
+6D
 100
 AcDbEntity
   8
@@ -3165,7 +3217,7 @@ AcDbLine
   0
 LINE
   5
-6A
+6E
 100
 AcDbEntity
   8
@@ -3189,7 +3241,7 @@ AcDbLine
   0
 LINE
   5
-6B
+6F
 100
 AcDbEntity
   8
@@ -3213,7 +3265,7 @@ AcDbLine
   0
 LINE
   5
-6C
+70
 100
 AcDbEntity
   8
@@ -3237,9 +3289,9 @@ AcDbLine
   0
 ENDBLK
   5
-57
+58
 330
-55
+56
 100
 AcDbEntity
   8
@@ -3249,9 +3301,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-59
+5A
 330
-58
+59
 100
 AcDbEntity
   8
@@ -3273,7 +3325,7 @@ relay
   0
 LINE
   5
-6D
+71
 100
 AcDbEntity
   8
@@ -3297,7 +3349,7 @@ AcDbLine
   0
 CIRCLE
   5
-6E
+72
 100
 AcDbEntity
   8
@@ -3319,7 +3371,7 @@ AcDbCircle
   0
 LINE
   5
-6F
+73
 100
 AcDbEntity
   8
@@ -3343,7 +3395,7 @@ AcDbLine
   0
 CIRCLE
   5
-70
+74
 100
 AcDbEntity
   8
@@ -3365,7 +3417,7 @@ AcDbCircle
   0
 LINE
   5
-71
+75
 100
 AcDbEntity
   8
@@ -3389,7 +3441,7 @@ AcDbLine
   0
 CIRCLE
   5
-72
+76
 100
 AcDbEntity
   8
@@ -3411,7 +3463,7 @@ AcDbCircle
   0
 LINE
   5
-73
+77
 100
 AcDbEntity
   8
@@ -3435,103 +3487,103 @@ AcDbLine
   0
 LINE
   5
-74
-100
-AcDbEntity
-  8
-Contour
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-0.1875
- 20
-2.125
- 11
-0.1875
- 21
-0.875
-  0
-LINE
-  5
-75
-100
-AcDbEntity
-  8
-Contour
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-0.1875
- 20
-0.875
- 11
--0.1875
- 21
-0.875
-  0
-LINE
-  5
-76
-100
-AcDbEntity
-  8
-Contour
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
--0.1875
- 20
-0.875
- 11
--0.1875
- 21
-2.125
-  0
-LINE
-  5
-77
-100
-AcDbEntity
-  8
-Contour
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
--0.1875
- 20
-2.125
- 11
-0.1875
- 21
-2.125
-  0
-LINE
-  5
 78
+100
+AcDbEntity
+  8
+Contour
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.1875
+ 20
+2.125
+ 11
+0.1875
+ 21
+0.875
+  0
+LINE
+  5
+79
+100
+AcDbEntity
+  8
+Contour
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.1875
+ 20
+0.875
+ 11
+-0.1875
+ 21
+0.875
+  0
+LINE
+  5
+7A
+100
+AcDbEntity
+  8
+Contour
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-0.1875
+ 20
+0.875
+ 11
+-0.1875
+ 21
+2.125
+  0
+LINE
+  5
+7B
+100
+AcDbEntity
+  8
+Contour
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-0.1875
+ 20
+2.125
+ 11
+0.1875
+ 21
+2.125
+  0
+LINE
+  5
+7C
 100
 AcDbEntity
   8
@@ -3555,7 +3607,7 @@ AcDbLine
   0
 LINE
   5
-79
+7D
 100
 AcDbEntity
   8
@@ -3579,7 +3631,7 @@ AcDbLine
   0
 MTEXT
   5
-7A
+7E
 100
 AcDbEntity
   8
@@ -3625,7 +3677,7 @@ standard
   0
 MTEXT
   5
-7B
+7F
 100
 AcDbEntity
   8
@@ -3671,7 +3723,7 @@ standard
   0
 MTEXT
   5
-7C
+80
 100
 AcDbEntity
   8
@@ -3717,9 +3769,9 @@ standard
   0
 ENDBLK
   5
-5A
+5B
 330
-58
+59
 100
 AcDbEntity
   8
@@ -3729,9 +3781,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-5C
+5D
 330
-5B
+5C
 100
 AcDbEntity
   8
@@ -3753,7 +3805,7 @@ switch
   0
 LINE
   5
-7D
+81
 100
 AcDbEntity
   8
@@ -3777,7 +3829,7 @@ AcDbLine
   0
 CIRCLE
   5
-7E
+82
 100
 AcDbEntity
   8
@@ -3799,7 +3851,7 @@ AcDbCircle
   0
 LINE
   5
-7F
+83
 100
 AcDbEntity
   8
@@ -3823,7 +3875,7 @@ AcDbLine
   0
 CIRCLE
   5
-80
+84
 100
 AcDbEntity
   8
@@ -3845,7 +3897,7 @@ AcDbCircle
   0
 LINE
   5
-81
+85
 100
 AcDbEntity
   8
@@ -3869,9 +3921,161 @@ AcDbLine
   0
 ENDBLK
   5
-5D
+5E
 330
-5B
+5C
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+60
+330
+5F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+fuse
+ 70
+    0
+ 10
+0
+ 20
+0
+  3
+fuse
+  1
+
+  0
+LINE
+  5
+86
+100
+AcDbEntity
+  8
+Contour
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0
+ 20
+0
+ 11
+0.8999999999999999
+ 21
+0
+  0
+CIRCLE
+  5
+87
+100
+AcDbEntity
+  8
+Contour
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+1
+ 20
+0
+ 40
+0.1
+  0
+LINE
+  5
+88
+100
+AcDbEntity
+  8
+Contour
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3
+ 20
+0
+ 11
+2.1
+ 21
+0
+  0
+CIRCLE
+  5
+89
+100
+AcDbEntity
+  8
+Contour
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+2
+ 20
+0
+ 40
+0.1
+  0
+LINE
+  5
+8A
+100
+AcDbEntity
+  8
+Contour
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1
+ 20
+0.1000000000000014
+ 11
+2
+ 21
+-0.1000000000000014
+  0
+ENDBLK
+  5
+61
+330
+5F
 100
 AcDbEntity
   8
@@ -3887,7 +4091,7 @@ ENTITIES
   0
 LWPOLYLINE
   5
-82
+8B
 100
 AcDbEntity
   8
@@ -3923,49 +4127,9 @@ AcDbPolyline
  20
 22
   0
-INSERT
-  5
-83
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-battery
- 10
-2
- 20
-20
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-0
- 45
-0
-  0
 TEXT
   5
-84
+8C
 100
 AcDbEntity
   8
@@ -3995,7 +4159,7 @@ AcDbText
  51
 0
   7
-
+standard
  71
     0
 210
@@ -4009,7 +4173,7 @@ AcDbText
   0
 INSERT
   5
-85
+8D
 100
 AcDbEntity
   8
@@ -4049,7 +4213,7 @@ ground
   0
 LINE
   5
-86
+8E
 100
 AcDbEntity
   8
@@ -4073,7 +4237,7 @@ AcDbLine
   0
 LINE
   5
-87
+8F
 100
 AcDbEntity
   8
@@ -4097,7 +4261,7 @@ AcDbLine
   0
 INSERT
   5
-88
+90
 100
 AcDbEntity
   8
@@ -4137,7 +4301,7 @@ switch
   0
 LWPOLYLINE
   5
-89
+91
 100
 AcDbEntity
   8
@@ -4175,7 +4339,7 @@ AcDbPolyline
   0
 TEXT
   5
-8A
+92
 100
 AcDbEntity
   8
@@ -4205,7 +4369,7 @@ AOB SW995NB OEM SWITCH
  51
 0
   7
-
+standard
  71
     0
 210
@@ -4219,7 +4383,7 @@ AcDbText
   0
 LINE
   5
-8B
+93
 100
 AcDbEntity
   8
@@ -4243,7 +4407,7 @@ AcDbLine
   0
 LINE
   5
-8C
+94
 100
 AcDbEntity
   8
@@ -4267,7 +4431,7 @@ AcDbLine
   0
 INSERT
   5
-8D
+95
 100
 AcDbEntity
   8
@@ -4307,7 +4471,7 @@ ground
   0
 LINE
   5
-8E
+96
 100
 AcDbEntity
   8
@@ -4331,7 +4495,7 @@ AcDbLine
   0
 LINE
   5
-8F
+97
 100
 AcDbEntity
   8
@@ -4355,7 +4519,7 @@ AcDbLine
   0
 LINE
   5
-90
+98
 100
 AcDbEntity
   8
@@ -4379,7 +4543,7 @@ AcDbLine
   0
 TEXT
   5
-91
+99
 100
 AcDbEntity
   8
@@ -4409,7 +4573,7 @@ DASH LIGHT / DIMMER
  51
 0
   7
-
+standard
  71
     0
 210
@@ -4423,31 +4587,7 @@ AcDbText
   0
 LINE
   5
-92
-100
-AcDbEntity
-  8
-VBAT
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-4
- 20
-20
- 11
-4
- 21
-15
-  0
-LINE
-  5
-93
+9A
 100
 AcDbEntity
   8
@@ -4471,7 +4611,7 @@ AcDbLine
   0
 INSERT
   5
-94
+9B
 100
 AcDbEntity
   8
@@ -4511,7 +4651,7 @@ relay
   0
 LWPOLYLINE
   5
-95
+9C
 100
 AcDbEntity
   8
@@ -4549,7 +4689,7 @@ AcDbPolyline
   0
 TEXT
   5
-96
+9D
 100
 AcDbEntity
   8
@@ -4579,7 +4719,7 @@ EPS131R 30/40A 12VDC RELAY
  51
 0
   7
-
+standard
  71
     0
 210
@@ -4593,7 +4733,7 @@ AcDbText
   0
 TEXT
   5
-97
+9E
 100
 AcDbEntity
   8
@@ -4623,7 +4763,7 @@ AcDbText
  51
 0
   7
-
+standard
  71
     0
 210
@@ -4637,7 +4777,7 @@ AcDbText
   0
 TEXT
   5
-98
+9F
 100
 AcDbEntity
   8
@@ -4667,7 +4807,7 @@ AcDbText
  51
 0
   7
-
+standard
  71
     0
 210
@@ -4681,7 +4821,7 @@ AcDbText
   0
 INSERT
   5
-99
+A0
 100
 AcDbEntity
   8
@@ -4721,7 +4861,7 @@ ground
   0
 LINE
   5
-9A
+A1
 100
 AcDbEntity
   8
@@ -4745,7 +4885,7 @@ AcDbLine
   0
 LINE
   5
-9B
+A2
 100
 AcDbEntity
   8
@@ -4769,7 +4909,7 @@ AcDbLine
   0
 TEXT
   5
-9C
+A3
 100
 AcDbEntity
   8
@@ -4799,7 +4939,7 @@ AcDbText
  51
 0
   7
-
+standard
  71
     0
 210
@@ -4813,7 +4953,7 @@ AcDbText
   0
 TEXT
   5
-9D
+A4
 100
 AcDbEntity
   8
@@ -4843,7 +4983,7 @@ AcDbText
  51
 0
   7
-
+standard
  71
     0
 210
@@ -4857,7 +4997,7 @@ AcDbText
   0
 TEXT
   5
-9E
+A5
 100
 AcDbEntity
   8
@@ -4887,7 +5027,7 @@ AcDbText
  51
 0
   7
-
+standard
  71
     0
 210
@@ -4901,55 +5041,7 @@ AcDbText
   0
 LINE
   5
-9F
-100
-AcDbEntity
-  8
-VBAT
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-10
- 20
-15
- 11
-15
- 21
-15
-  0
-LINE
-  5
-A0
-100
-AcDbEntity
-  8
-VBAT
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-15
- 20
-15
- 11
-15
- 21
-11
-  0
-LINE
-  5
-A1
+A6
 100
 AcDbEntity
   8
@@ -4973,7 +5065,7 @@ AcDbLine
   0
 LINE
   5
-A2
+A7
 100
 AcDbEntity
   8
@@ -4994,160 +5086,6 @@ AcDbLine
 18
  21
 13
-  0
-LWPOLYLINE
-  5
-A3
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-8.6
- 20
-20.5
- 10
-7
- 20
-20.5
- 10
-7
- 20
-19.5
- 10
-8.6
- 20
-19.5
-  0
-TEXT
-  5
-A4
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbText
- 10
-7.5
- 20
-19.9
- 30
-0
- 40
-0.25
-  1
-ACC
- 50
-0
- 41
-1
- 51
-0
-  7
-
- 71
-    0
-210
-0
-220
-0
-230
-1
-100
-AcDbText
-  0
-LINE
-  5
-A5
-100
-AcDbEntity
-  8
-VBAT
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-4
- 20
-20
- 11
-7
- 21
-20
-  0
-LINE
-  5
-A6
-100
-AcDbEntity
-  8
-VBAT
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-18
- 20
-11
- 11
-22
- 21
-11
-  0
-LINE
-  5
-A7
-100
-AcDbEntity
-  8
-VBAT
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-22
- 20
-11
- 11
-22
- 21
-14
   0
 LINE
   5
@@ -5189,30 +5127,6 @@ ByLayer
 100
 AcDbLine
  10
-8.600000000000001
- 20
-20
- 11
-22
- 21
-20
-  0
-LINE
-  5
-AA
-100
-AcDbEntity
-  8
-ACC
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
 22
  20
 20
@@ -5223,7 +5137,7 @@ AcDbLine
   0
 LINE
   5
-AB
+AA
 100
 AcDbEntity
   8
@@ -5247,7 +5161,7 @@ AcDbLine
   0
 LWPOLYLINE
   5
-AC
+AB
 100
 AcDbEntity
   8
@@ -5285,7 +5199,7 @@ AcDbPolyline
   0
 TEXT
   5
-AD
+AC
 100
 AcDbEntity
   8
@@ -5315,7 +5229,7 @@ DASHCAM PSU
  51
 0
   7
-
+standard
  71
     0
 210
@@ -5326,6 +5240,30 @@ DASHCAM PSU
 1
 100
 AcDbText
+  0
+LINE
+  5
+AD
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+22.6
+ 20
+3.5
+ 11
+21.2
+ 21
+3.5
   0
 LINE
   5
@@ -5345,39 +5283,15 @@ AcDbLine
  10
 22.6
  20
-3.5
+4.5
  11
 21.2
  21
-3.5
+4.5
   0
 LINE
   5
 AF
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-22.6
- 20
-4.5
- 11
-21.2
- 21
-4.5
-  0
-LINE
-  5
-B0
 100
 AcDbEntity
   8
@@ -5401,7 +5315,7 @@ AcDbLine
   0
 TEXT
   5
-B1
+B0
 100
 AcDbEntity
   8
@@ -5431,7 +5345,7 @@ GND
  51
 0
   7
-
+standard
  71
     0
 210
@@ -5445,7 +5359,7 @@ AcDbText
   0
 TEXT
   5
-B2
+B1
 100
 AcDbEntity
   8
@@ -5475,7 +5389,7 @@ ACC
  51
 0
   7
-
+standard
  71
     0
 210
@@ -5489,7 +5403,7 @@ AcDbText
   0
 TEXT
   5
-B3
+B2
 100
 AcDbEntity
   8
@@ -5519,7 +5433,7 @@ VBAT
  51
 0
   7
-
+standard
  71
     0
 210
@@ -5533,7 +5447,7 @@ AcDbText
   0
 LINE
   5
-B4
+B3
 100
 AcDbEntity
   8
@@ -5557,7 +5471,7 @@ AcDbLine
   0
 LINE
   5
-B5
+B4
 100
 AcDbEntity
   8
@@ -5581,7 +5495,7 @@ AcDbLine
   0
 LINE
   5
-B6
+B5
 100
 AcDbEntity
   8
@@ -5605,55 +5519,7 @@ AcDbLine
   0
 LINE
   5
-B7
-100
-AcDbEntity
-  8
-ACC
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-22
- 20
-20
- 11
-24
- 21
-20
-  0
-LINE
-  5
-B8
-100
-AcDbEntity
-  8
-ACC
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-24
- 20
-20
- 11
-24
- 21
-4.5
-  0
-LINE
-  5
-B9
+B6
 100
 AcDbEntity
   8
@@ -5677,7 +5543,7 @@ AcDbLine
   0
 INSERT
   5
-BA
+B7
 100
 AcDbEntity
   8
@@ -5717,7 +5583,7 @@ ground
   0
 LINE
   5
-BB
+B8
 100
 AcDbEntity
   8
@@ -5741,7 +5607,7 @@ AcDbLine
   0
 MTEXT
   5
-BC
+B9
 100
 AcDbEntity
   8
@@ -5773,7 +5639,7 @@ MODE A | SWITCH OFF\PCamera is on when ACC is powered\PCamera is off when ACC is
   1
 is off, can drain the\Pbattery, not intended for long durations.
   7
-
+standard
 210
 0
 220
@@ -5789,7 +5655,7 @@ is off, can drain the\Pbattery, not intended for long durations.
   0
 LINE
   5
-BD
+BA
 100
 AcDbEntity
   8
@@ -5813,7 +5679,7 @@ AcDbLine
   0
 TEXT
   5
-BE
+BB
 100
 AcDbEntity
   8
@@ -5843,6 +5709,128 @@ TO CAMERAS
  51
 0
   7
+standard
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+INSERT
+  5
+BC
+100
+AcDbEntity
+  8
+DEFAULT
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+battery
+ 10
+2
+ 20
+20
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+LWPOLYLINE
+  5
+BD
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+5
+ 20
+19
+ 10
+7
+ 20
+19
+ 10
+7
+ 20
+21
+ 10
+5
+ 20
+21
+  0
+TEXT
+  5
+BE
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+5.2
+ 20
+19.9
+ 30
+0
+ 40
+0.25
+  1
+FUSE BOX
+ 50
+0
+ 41
+1
+ 51
+0
+  7
 
  71
     0
@@ -5854,6 +5842,486 @@ TO CAMERAS
 1
 100
 AcDbText
+  0
+LINE
+  5
+BF
+100
+AcDbEntity
+  8
+VBAT
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5.000000000000001
+ 20
+20
+ 11
+4
+ 21
+20
+  0
+INSERT
+  5
+C0
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+fuse
+ 10
+7.000000000000001
+ 20
+20.6
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+INSERT
+  5
+C1
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+fuse
+ 10
+7.000000000000001
+ 20
+19.4
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+1
+ 45
+1
+  0
+LINE
+  5
+C2
+100
+AcDbEntity
+  8
+VBAT
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4
+ 20
+15
+ 11
+4
+ 21
+18
+  0
+LINE
+  5
+C3
+100
+AcDbEntity
+  8
+VBAT
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4
+ 20
+18
+ 11
+10
+ 21
+18
+  0
+LINE
+  5
+C4
+100
+AcDbEntity
+  8
+VBAT
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+10
+ 20
+18
+ 11
+10
+ 21
+19.4
+  0
+LINE
+  5
+C5
+100
+AcDbEntity
+  8
+ACC
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+22
+ 20
+20
+ 11
+22
+ 21
+20.6
+  0
+LINE
+  5
+C6
+100
+AcDbEntity
+  8
+ACC
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+22
+ 20
+20.6
+ 11
+10
+ 21
+20.6
+  0
+TEXT
+  5
+C7
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+7.5
+ 20
+20.9
+ 30
+0
+ 40
+0.25
+  1
+ACC TAP 3A
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+C8
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+7.5
+ 20
+19.7
+ 30
+0
+ 40
+0.25
+  1
+VBAT TAP 3A
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+LINE
+  5
+C9
+100
+AcDbEntity
+  8
+VBAT
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+10
+ 20
+15
+ 11
+15
+ 21
+15
+  0
+LINE
+  5
+CA
+100
+AcDbEntity
+  8
+VBAT
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+15
+ 20
+15
+ 11
+15
+ 21
+11
+  0
+LINE
+  5
+CB
+100
+AcDbEntity
+  8
+VBAT
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4
+ 20
+15
+ 11
+4
+ 21
+10
+  0
+LINE
+  5
+CC
+100
+AcDbEntity
+  8
+VBAT
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4
+ 20
+10
+ 11
+22
+ 21
+10
+  0
+LINE
+  5
+CD
+100
+AcDbEntity
+  8
+VBAT
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+22
+ 20
+10
+ 11
+22
+ 21
+14
+  0
+LINE
+  5
+CE
+100
+AcDbEntity
+  8
+ACC
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+24
+ 20
+4.5
+ 11
+24
+ 21
+20.6
+  0
+LINE
+  5
+CF
+100
+AcDbEntity
+  8
+ACC
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+24
+ 20
+20.6
+ 11
+22
+ 21
+20.6
   0
 ENDSEC
   0
